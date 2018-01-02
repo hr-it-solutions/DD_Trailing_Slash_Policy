@@ -10,11 +10,11 @@ The problem occurs for example on **Joomla** pages.<br>
 
 ## Solution
 Just add the provided .htaccess file to your website root, like Joomla.
+That's all ;)
 
+htaccess logic:<br>
 - remove traling slashes on none directory URLs
 - switch to none trailing slash by 301 http state
-
-That's all ;)
 
 # DD_ Namespace
 DD_ stands for  **D**idl**d**u e.K. | HR IT-Solutions (Brand recognition)                   <br>
