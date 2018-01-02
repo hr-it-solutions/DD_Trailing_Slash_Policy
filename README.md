@@ -2,9 +2,6 @@
 
 # Duplicate Content Problem (Mentioned by JohnMu)
 https://twitter.com/JohnMu/status/943076424130363392<br>
-<br>
-Here an article about this of Dr. Web<br>
-Dr. Web Duplicate Content Fix (Trailing Slash)<br>
 https://www.drweb.de/duplicate-content-google-stellt-klar/<br>
 
 The problem occurs for example on **Joomla** pages.<br>
