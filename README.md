@@ -1,4 +1,4 @@
-# DD Trailing Slash Policy
+# DD Trailing Slash Policy (JohnMu fix)
 
 # Duplicate Content Problem
 Dr. Web Duplicate Content Fix (Trailing Slash)<br>
