@@ -1,6 +1,6 @@
-# DD Trailing Slash Policy (a JohnMu fix)
+# DD Trailing Slash Policy
 
-# Duplicate Content Problem
+# Duplicate Content Problem (Mentioned by JohnMu)
 https://twitter.com/JohnMu/status/943076424130363392<br>
 <br>
 Here an article about this of Dr. Web<br>
