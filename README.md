@@ -16,6 +16,9 @@ htaccess logic:<br>
 - remove traling slashes on none directory URLs
 - switch to none trailing slash by 301 http state
 
+<br>
+<br>
+
 # DD_ Namespace
 DD_ stands for  **D**idl**d**u e.K. | HR IT-Solutions (Brand recognition)                   <br>
 It is a namespace prefix, provided to avoid element name conflicts.
