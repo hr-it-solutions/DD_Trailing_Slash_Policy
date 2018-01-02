@@ -6,12 +6,13 @@ https://github.com/hr-it-solutions/DD_Trailing_Slash_Policy/blob/master/.htacces
 https://twitter.com/JohnMu/status/943076424130363392<br>
 
 The problem occurs for example on **Joomla** pages.<br>
-**The main reason for this fix hereafter**
+**The main reason for this fix**
 
-## Server Side Solution
-https://github.com/hr-it-solutions/DD_Trailing_Slash_Policy/blob/master/.htaccess<br>
-<br>
-Just add this file to your website root, like Joomla.
+## Solution
+Just add the provided .htaccess file to your website root, like Joomla.
+
+- remove traling slashes on none directory URLs
+- switch to none trailing slash by 301 http state
 
 That's all ;)
 
