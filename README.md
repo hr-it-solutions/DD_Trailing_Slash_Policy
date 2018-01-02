@@ -1,8 +1,8 @@
 # DD_Trailing_Slash_Policy
 
 Dr. Web Duplicate Content Fix (Trailing Slash)
-https://www.drweb.de/duplicate-content-google-stellt-klar/
-https://twitter.com/JohnMu/status/943076424130363392
+https://www.drweb.de/duplicate-content-google-stellt-klar/<br>
+https://twitter.com/JohnMu/status/943076424130363392<br>
 
 # DD_ Namespace
 DD_ stands for  **D**idl**d**u e.K. | HR IT-Solutions (Brand recognition)                   <br>
