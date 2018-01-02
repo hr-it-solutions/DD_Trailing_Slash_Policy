@@ -1,4 +1,4 @@
-# DD Trailing Slash Policy (JohnMu fix)
+# DD Trailing Slash Policy (a JohnMu fix)
 
 # Duplicate Content Problem
 https://twitter.com/JohnMu/status/943076424130363392<br>
