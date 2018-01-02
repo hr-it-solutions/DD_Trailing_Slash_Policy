@@ -5,12 +5,13 @@ Dr. Web Duplicate Content Fix (Trailing Slash)<br>
 https://www.drweb.de/duplicate-content-google-stellt-klar/<br>
 https://twitter.com/JohnMu/status/943076424130363392<br>
 
-For examle, on default Joomla Sites
+The problem occurs for example on **Joomla** pages.<br>
+**The main reason for this fix hereafter**
 
 # Server Side Solution
 https://github.com/hr-it-solutions/DD_Trailing_Slash_Policy/blob/master/.htaccess<br>
 <br>
-Just add this file to your website root
+Just add this file to your website root, like Joomla.
 
 That's all ;)
 
