@@ -2,7 +2,6 @@
 
 # Duplicate Content Problem (Mentioned by JohnMu)
 https://twitter.com/JohnMu/status/943076424130363392<br>
-https://www.drweb.de/duplicate-content-google-stellt-klar/<br>
 
 The problem occurs for example on **Joomla** pages.<br>
 **The main reason for this fix hereafter**
