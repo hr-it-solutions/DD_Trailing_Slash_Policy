@@ -1,9 +1,11 @@
-# DD J Trailing Slash Policy
+# DD Trailing Slash Policy
 
-# Joomla Duplicate Content Problem
+# Duplicate Content Problem
 Dr. Web Duplicate Content Fix (Trailing Slash)<br>
 https://www.drweb.de/duplicate-content-google-stellt-klar/<br>
 https://twitter.com/JohnMu/status/943076424130363392<br>
+
+For examle, on default Joomla Sites
 
 # Server Side Solution
 https://github.com/hr-it-solutions/DD_Trailing_Slash_Policy/blob/master/.htaccess<br>
