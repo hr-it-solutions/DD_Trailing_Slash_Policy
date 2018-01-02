@@ -1,4 +1,4 @@
-# DD_Trailing_Slash_Policy
+# DD Trailing Slash Policy
 
 Dr. Web Duplicate Content Fix (Trailing Slash)<br>
 https://www.drweb.de/duplicate-content-google-stellt-klar/<br>
