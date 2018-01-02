@@ -6,7 +6,8 @@ https://www.drweb.de/duplicate-content-google-stellt-klar/<br>
 https://twitter.com/JohnMu/status/943076424130363392<br>
 
 # ServerSide Solution
-https://github.com/hr-it-solutions/DD_Trailing_Slash_Policy/blob/master/.htaccess
+https://github.com/hr-it-solutions/DD_Trailing_Slash_Policy/blob/master/.htaccess<br>
+<br>
 Just add this file to your website root
 
 That's all ;)
