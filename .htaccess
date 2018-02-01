@@ -1,6 +1,6 @@
 ######
 ## @package    HR IT-Solutions - DD Trailing Slash Policy
-## @version    V1.0
+## @version    V1.2
 ##
 ## @author     HR IT-Solutions Florian Häusler <info@hr-it-solutions.com>
 ## @copyright  Copyright (C) 2018 - 2018 Didldu e.K. | HR IT-Solutions
@@ -11,4 +11,11 @@ RewriteEngine On
 
 # DD Trailing Slash Policy
 RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)/$ /$1 [R=301,NC,L]
+
+# OR
+
+# DD Trailing Slash Policy - EXTENDED - EXC. POST REQUEST
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_METHOD} !^(POST) [NC]
 RewriteRule ^(.*)/$ /$1 [R=301,NC,L]
